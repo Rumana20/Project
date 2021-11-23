@@ -1,0 +1,25 @@
+
+numpy==1.18.5
+pandas==1.0.4
+math
+numpy 
+pandas 
+
+from scipy.sparse import csr_matrix
+from sklearn.neighbors import NearestNeighbors
+re
+nltk
+from bs4 import BeautifulSoup
+string
+from nltk.corpus import stopwords
+from nltk.tokenize import RegexpTokenizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem.porter import PorterStemmer
+html.parser
+
+
+nltk
+stopwords
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.neighbors import NearestNeighbors
+pickle
